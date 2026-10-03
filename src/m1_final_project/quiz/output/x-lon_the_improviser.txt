@@ -1,0 +1,28 @@
+
+       /\    
+      |  |   
+     / || \  *Needs more Rust.*
+    | [__] | 
+     \_||_/  
+      /||\   
+     /____\  
+      /||\   
+
+  ┌────────────────────────┐
+  │     THE IMPROVISER     │
+  └────────────────────────┘
+
+  Dominant trait : Chaotic
+  Best match     : Langchain Fleet
+
+  Chaotic  ████░░░░░░░░░░ Organized       Chaotic 75%
+  Cautious █████████░░░░░ Bold            Bold 65%
+  Solo     █████████░░░░░ Collaborative   Collaborative 67%
+
+  "Fleet is a no-code platform for creating and
+  managing AI agents that automates everyday
+  tasks like drafting emails and organizing
+  information, perfect for a chaotic developer
+  who wants structure without building it."
+
+  judged by X-lon

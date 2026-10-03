@@ -1,0 +1,29 @@
+
+           [======] 
+          /  O  O  \ 
+         |    ||    | 
+         |  \____/  | 
+          \________/ 
+            |____| 
+
+  ┌────────────────────────┐
+  │      THE CO-PILOT      │
+  └────────────────────────┘
+
+  Dominant trait : Collaborative
+  Best match     : LangChain Deployment
+
+  Chaotic  ██████░░░░░░░░ Organized       Chaotic 55%
+  Cautious ██████░░░░░░░░ Bold            Cautious 59%
+  Solo     ████████████░░ Collaborative   Collaborative 89%
+
+  "You do your absolute best work when you are
+  bouncing ideas off others and solving
+  complex problems as a cohesive unit. Whether
+  through pair programming, dynamic
+  whiteboarding sessions, or rigorous code
+  reviews, you value shared ownership and
+  recognize that a unified team builds vastly
+  superior software."
+
+  Judged by Zucker-Borg

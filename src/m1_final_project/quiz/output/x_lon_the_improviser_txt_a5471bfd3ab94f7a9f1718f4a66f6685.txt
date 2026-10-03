@@ -1,0 +1,30 @@
+
+              /\ 
+             |  | 
+            / || \ 
+           | [__] | 
+            \_||_/ 
+             /||\ 
+            /____\ 
+             /||\ 
+
+  ┌────────────────────────┐
+  │     THE IMPROVISER     │
+  └────────────────────────┘
+
+  Dominant trait : Chaotic
+  Best match     : LangChain Fleet
+
+  Chaotic  ████░░░░░░░░░░ Organized       Chaotic 75%
+  Cautious ██████████░░░░ Bold            Bold 71%
+  Solo     █████░░░░░░░░░ Collaborative   Solo 61%
+
+  "You thrive in the unknown and see sudden
+  shifts as exciting challenges rather than
+  setbacks. Strict roadmaps bore you, and you
+  prefer to tackle problems head-on as they
+  spontaneously arise. Your adaptable nature
+  means you find highly creative workarounds
+  when the original plan falls apart."
+
+  Judged by X-lon
